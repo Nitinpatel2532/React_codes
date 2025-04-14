@@ -1,0 +1,19 @@
+{
+    "userData":[
+        {
+            "uname":"tej bhaiya",
+            "age":20,
+            "city":"Bhopal"
+        },
+        {
+            "uname":" bhaiya",
+            "age":30,
+            "city":"pune"
+        },
+        {
+            "uname":"jeetu",
+            "age":40,
+            "city":"indore"
+        }
+    ]
+}
